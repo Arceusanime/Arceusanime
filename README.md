@@ -10,7 +10,7 @@ present - Cooking.... Cooking.... Cooking....
 
 * 🌍  I'm based in Bengaluru
 * 🖥  See my portfolio at [Not yet](http://notyet)
-* ✉  You can contact me at [arceusanime56@gmail.com](mailto:arceusanime56@gmail.com)
+* ✉  You can contact me at [vikasn.dev56@gmail.com](mailto:vikasn.dev56@gmail.com)
 * 🚀  I'm currently working on [Myself](http://myself)
 * 🧠  I'm currently learning Fullstack - 18%, WEB 3 - 10%, DSA 12%.
 * 👥  I'm looking to collaborate on Anything
