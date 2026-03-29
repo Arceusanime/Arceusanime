@@ -9,7 +9,7 @@ Nothing Much Its just procrastination till last week...
 present - Cooking.... Cooking.... Cooking....
 
 * 🌍  I'm based in Bengaluru
-* 🖥  See my portfolio at [Not yet](http://notyet)
+* 🖥  See my portfolio at [vikasn.tech](http://vikasn.tech)
 * ✉  You can contact me at [vikasn.dev56@gmail.com](mailto:vikasn.dev56@gmail.com)
 * 🚀  I'm currently working on [Myself](http://myself)
 * 🧠  I'm currently learning Fullstack - 18%, WEB 3 - 10%, DSA 12%.
